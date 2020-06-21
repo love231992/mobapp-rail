@@ -11,9 +11,13 @@
       "package": "com.EDFC.EDFC_Ballast",
       "versionCode": 1
     },
+    "ios": {
+      "bundleIdentifier": "com.EDFC.EDFC_Ballast",
+      "buildNumber": "1.0.0"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/rail.png",
+    "icon": "./assets/aicon.png",
     "splash": {
       "image": "./assets/rail.png",
       "resizeMode": "cover",
