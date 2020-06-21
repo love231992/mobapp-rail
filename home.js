@@ -51,7 +51,7 @@ export default function App({navigation}) {
             <AnimatedLoader
               visible={loading}
               overlayColor="rgba(255,255,255,0)"
-              source={require("./assets/truck.json")}
+              source={require("./assets/winter-train.json")}
               animationStyle={styles.lottie}
               speed={1}
             />
