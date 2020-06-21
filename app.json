@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "EDFC Ballast",
+    "slug": "EDFC_Ballast",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.EDFC.EDFC_Ballast",
+      "versionCode": 1
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/rail.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#D3D3D3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
